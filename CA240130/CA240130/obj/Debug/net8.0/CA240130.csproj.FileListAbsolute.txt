@@ -1,0 +1,14 @@
+C:\Users\BOSS\source\repos\CA240130\CA240130\bin\Debug\net8.0\CA240130.exe
+C:\Users\BOSS\source\repos\CA240130\CA240130\bin\Debug\net8.0\CA240130.deps.json
+C:\Users\BOSS\source\repos\CA240130\CA240130\bin\Debug\net8.0\CA240130.runtimeconfig.json
+C:\Users\BOSS\source\repos\CA240130\CA240130\bin\Debug\net8.0\CA240130.dll
+C:\Users\BOSS\source\repos\CA240130\CA240130\bin\Debug\net8.0\CA240130.pdb
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\CA240130.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\CA240130.AssemblyInfoInputs.cache
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\CA240130.AssemblyInfo.cs
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\CA240130.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\CA240130.dll
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\refint\CA240130.dll
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\CA240130.pdb
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\CA240130.genruntimeconfig.cache
+C:\Users\BOSS\source\repos\CA240130\CA240130\obj\Debug\net8.0\ref\CA240130.dll
